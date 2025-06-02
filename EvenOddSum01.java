@@ -3,11 +3,11 @@ import java.util.Scanner;
 public class EvenOddSum01 {
 
     public static void main(String[] args) {
-<<<<<<< HEAD
+
 		string name ="Ashish";
-=======
+
         int x=10;
->>>>>>> 9816f1c9d6a5725268a7c2af73a3a52ac9d4cd2f
+
         Scanner sc=new Scanner(System.in);
         int number;
         int choice;

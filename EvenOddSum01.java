@@ -4,7 +4,7 @@ public class EvenOddSum01 {
 
     public static void main(String[] args) {
 
-		string name ="Ashish";
+		String name ="Ashish";
 
         int x=10;
 

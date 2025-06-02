@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class EvenOddSum01 {
 
     public static void main(String[] args) {
+        int x=10;
         Scanner sc=new Scanner(System.in);
         int number;
         int choice;
